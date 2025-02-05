@@ -17,11 +17,6 @@
   ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  
  
- ## Frameworks
-<div style= "display:inline_block"><br>
- <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
- <img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
-<div>
+
   
 ### I've still got a lot to learn but, I'm excited for this journey!
