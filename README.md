@@ -1,5 +1,9 @@
 
-## Olá, tudo bem? Bem vindo ao meu perfil!
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=277efb&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99 " alt="Typing SVG">
+  </a>
+</div>
 
 ### Tente contato por: 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:fernando.cairess@outlook.com)
