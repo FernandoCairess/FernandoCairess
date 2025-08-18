@@ -20,3 +20,9 @@
 
   
 ### I've still got a lot to learn but, I'm excited for this journey!
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoCairess/FernandoCairess/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoCairess/FernandoCairess/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FernandoCairess/FernandoCairess/output/github-contribution-grid-snake.svg">
+</picture>
