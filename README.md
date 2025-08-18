@@ -1,15 +1,16 @@
 
-### Olá, tudo bem? Bem vindo ao meu perfil!
+## Olá, tudo bem? Bem vindo ao meu perfil!
 
-
+### Tente contato por: 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:fernando.cairess@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/fernando-caires-silva-835319287/)
 
 
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoCairess&show_icons=true&theme=transparent)
- 
 
+ 
  ## As minhas tecnlogias mais usadas:
 ![](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) 
 ![](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
