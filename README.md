@@ -22,10 +22,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
  
  ## As minhas tecnlogias mais usadas:
-![](https://img.icons8.com/?size=100&id=13679&format=png&color=000000) 
-![](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
- 
- 
+
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Ícone 1">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Ícone 2">
+</div>
+
 
   
 
